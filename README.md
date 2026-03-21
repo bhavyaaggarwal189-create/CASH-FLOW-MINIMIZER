@@ -1,4 +1,4 @@
-# CASH-FLOW-MINIMIZER
+# CASH-FLOW-MINIMIZING SYSTEM
 CASH FLOW MINIMIZER :Our project enables the user to get minimize multiple transactions,track monthly expenditure records,and borrow along with monthly emi notification .
 This project helps the user to manage their finance efficiently in order to  get rid of unecessory financial missmanagement .
 Our project is mainly divided into three respective modules:-
