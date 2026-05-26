@@ -108,10 +108,6 @@ Current Status: **Phase 3 Successfully Completed**
 
 ---
 
-##  Screenshots
-
-(Add screenshots here)
-
 ---
 
 ##  License
